@@ -52,7 +52,7 @@
 ---
 
 ## How to Run in Colab
-1. Open Google Colab: [Colab Link](YOUR_COLAB_SHARE_LINK)  
+1. Open Google Colab: https://colab.research.google.com/drive/1D-OIjUNleusgZr0piEqMVs5u58Cz0uF2?usp=sharing
 2. Upload `bank.csv` if needed, or access it from Google Drive/Kaggle.  
 3. Run the notebook cells to reproduce analysis and visualizations.  
 4. All plots and results are interactive and visible in Colab.
@@ -65,4 +65,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Author:** MURARI JOY PRANEETH 
-**GitHub:** [YourUsername](https://github.com/YourUsername)
+**GitHub:**(https://github.com/)
